@@ -1,4 +1,4 @@
-Beginner Programmer, bad musician, novice writer, etc. I tend to spread myself thin when it comes to creativity.
+Hobbiest novice programmer and writer. ADHD makes doing this consistently quite difficult, but I try to do my best.
 
 <!---
 Groundlarr/Groundlarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
